@@ -1,0 +1,39 @@
+.home-button {
+
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #189e09, #d00000);
+  color: white;
+  text-decoration: none;
+  border: 2px solid #c60606;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  transition: all 0.3s ease-in-out;
+  background-color: rgba(255, 255, 255, 0.694);
+  color: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background: linear-gradient(45deg, #ef0404, #ff00ae);
+  color: #ffffff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 2px 2px 5px rgba(220, 100, 1, 0.874), -2px -2px 5px rgba(255, 255, 255, 0.2);
+  transition: all 0.3s ease-in-out;
+  height: fit-content;
+  width: fit-content;
+}
+
+.home-button:hover {
+  background-image: linear-gradient(to right, #f50333, #0029ae);
+  color: #ff5050;
+
+}
+
+
+  
